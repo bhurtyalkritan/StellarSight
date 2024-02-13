@@ -11,34 +11,6 @@ The project consists of two main files:
 
 ## Setup Instructions
 
-### HTML Setup
-Include the following HTML code in your `index.html` file to set up the canvas:
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Infinite Starfield</title>
-    <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            overflow: hidden;
-            width: 100%;
-            height: 100%;
-        }
-        canvas {
-            display: block;
-        }
-    </style>
-</head>
-<body>
-<canvas id="starfield"></canvas>
-<script src="starfield.js"></script>
-</body>
-</html>```
-
 ## JavaScript Setup
 
 The `starfield.js` script is responsible for creating the starfield effect. This script initializes the canvas, sets up event listeners for user interactions like resizing the window, panning with the mouse, and zooming with the mouse wheel. It also contains functions for generating and drawing stars and planets on the canvas.
