@@ -61,7 +61,7 @@ Not sure where to start? Look for open issues labeled `good first issue` or `hel
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
 2. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations, and container parameters.
-3. Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
+3. Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent.
 4. Your pull request will be reviewed by the maintainers, and feedback will be given accordingly. Once approved, your pull request will be merged into the project.
 
 Thank you for your interest in contributing to the Infinite Starfield project! Your efforts make this project better for everyone.
