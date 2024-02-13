@@ -37,7 +37,7 @@ Include the following HTML code in your `index.html` file to set up the canvas:
 <canvas id="starfield"></canvas>
 <script src="starfield.js"></script>
 </body>
-</html>'''
+</html>```
 
 ## JavaScript Setup
 
